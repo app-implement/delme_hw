@@ -11,6 +11,6 @@ entries:
     - kubernetes
     name: espochw
     urls:
-    - https://10.49.72.133/harbor/projects/2/repositories/espochw/artifacts-tab/espochw-1.0.0.tgz
+    - https://github.com/app-implement/delme_hw/blob/main/espochw/espochw-1.0.0.tgz
     version: 1.0.0
 generated: "2022-05-19T14:18:52.2778887-05:00"
