@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  espochw:
+  - apiVersion: v1
+    created: "2022-05-19T14:18:52.289964-05:00"
+    description: espochw chart that runs on kubernetes
+    digest: e138a766d629e08fa2010afc311c7e4dc81df02fc9458ce5f8f08d9b46a744ed
+    home: https://gitlab.dell.com/business/services/sdst/tsb/espoc-hw
+    keywords:
+    - helloworld
+    - kubernetes
+    name: espochw
+    urls:
+    - https://10.49.72.133/harbor/projects/2/repositories/espochw/artifacts-tab/espochw-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-05-19T14:18:52.2778887-05:00"
